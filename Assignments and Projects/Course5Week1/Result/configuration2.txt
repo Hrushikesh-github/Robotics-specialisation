@@ -1,0 +1,20 @@
+diary on
+Test_formclosure([1,0,pi/2;0,3,-pi/4;2,3,-pi/2;3,2.8,-pi])
+
+Optimal solution found.
+
+body in form closure
+
+k =
+
+    2.2500
+    1.7678
+    1.0000
+    1.2500
+
+
+ans =
+
+     1
+
+diary off

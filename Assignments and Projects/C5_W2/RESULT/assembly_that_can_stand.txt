@@ -1,0 +1,16 @@
+diary on
+Stability_of_assembly
+solution exists
+
+k =
+
+   20.0158
+    0.9743
+         0
+         0
+    3.3900
+    6.1453
+   38.7504
+   57.9795
+
+diary off

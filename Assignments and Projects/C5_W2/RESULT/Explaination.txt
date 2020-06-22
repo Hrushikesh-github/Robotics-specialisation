@@ -1,0 +1,8 @@
+I have considered a small rectangular brick on a right angled wedge.Mass of wedge(30 units) is much more than mass of brick(2 units)
+The coefficient of friction between ground and wedge is 0.9. very high to ensure no slipping between wedge and ground.
+Coefficient of friction between brick and wedge is 0.3 in slipping case and 0.7 in stable case.
+The reason why system is unstable at 0.3 is because of the stability of brick.It has mgsin(theta) component along the wedge 
+which is more than the frictional force 0.3*normal force.(normal force=mgcos(theta)).Theta is angle of wedge.
+But if we increase the coefficient of friction to 0.7,then the friction force is sufficient to oppose the mgsin(theta) component
+along the wedge. Note that toppling of brick is implausible because of the normal forces acting on it and the short height
+of the brick gives more stability from toppling.

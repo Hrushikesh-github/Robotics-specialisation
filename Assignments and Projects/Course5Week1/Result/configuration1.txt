@@ -1,0 +1,14 @@
+diary on
+Test_formclosure([1,0,pi/2;2,0,pi/2;3,1,-pi;3,2,-pi])
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'lp_no_feas_solution','CSHelpWindow');">No feasible solution found.</a>
+
+Linprog stopped because no point satisfies the constraints.
+
+body not in form closure
+
+ans =
+
+     0
+
+diary off

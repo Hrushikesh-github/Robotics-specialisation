@@ -1,0 +1,95 @@
+Iteration: 1
+Joint vector:
+2.495306 -1.139605 1.994847 -1.190279 -0.642419 -1.234795
+SE(3) end effector configuration(WRT space frame): 
+ 
+    0.0702    0.9971   -0.0305   -0.4402
+    0.1945   -0.0436   -0.9799    0.1133
+   -0.9784    0.0628   -0.1970    0.0734
+         0         0         0    1.0000
+
+The error twist Vb:
+-0.037324 -0.197220 -0.067012 -0.029878 -0.058646 0.011660
+Angular error magnitude:
+0.211612
+Linear error magnitude:
+0.066843
+     ---------------------------
+Iteration: 2
+Joint vector:
+2.596041 -1.035619 1.756037 -0.768408 -0.517495 -1.511786
+SE(3) end effector configuration(WRT space frame): 
+ 
+    0.0180    0.9994   -0.0285   -0.4999
+    0.0232   -0.0290   -0.9993    0.0926
+   -0.9996    0.0173   -0.0237    0.0991
+         0         0         0    1.0000
+
+The error twist Vb:
+-0.028755 -0.023485 -0.017633 -0.000776 -0.000184 -0.007432
+Angular error magnitude:
+0.041101
+Linear error magnitude:
+0.007475
+     ---------------------------
+Iteration: 3
+Joint vector:
+2.585890 -1.016980 1.726334 -0.705671 -0.554954 -1.574567
+SE(3) end effector configuration(WRT space frame): 
+ 
+   -0.0006    1.0000   -0.0008   -0.4998
+   -0.0019   -0.0008   -1.0000    0.1000
+   -1.0000   -0.0006    0.0019    0.1003
+         0         0         0    1.0000
+
+The error twist Vb:
+-0.000752 0.001941 0.000641 0.000305 -0.000157 0.000047
+Angular error magnitude:
+0.002178
+Linear error magnitude:
+0.000347
+     ---------------------------
+Iteration: 4
+Joint vector:
+2.586189 -1.017038 1.726922 -0.709888 -0.555400 -1.570794
+SE(3) end effector configuration(WRT space frame): 
+ 
+    0.0000    1.0000   -0.0000   -0.5000
+    0.0000   -0.0000   -1.0000    0.1000
+   -1.0000    0.0000   -0.0000    0.1000
+         0         0         0    1.0000
+
+The error twist Vb:
+-0.000004 -0.000002 -0.000000 0.000001 0.000000 -0.000000
+Angular error magnitude:
+0.000004
+Linear error magnitude:
+0.000001
+     ---------------------------
+The joint iterations matrix:
+
+    3.0000   -1.0000    2.0000   -1.0000         0   -1.0000
+    2.4953   -1.1396    1.9948   -1.1903   -0.6424   -1.2348
+    2.5960   -1.0356    1.7560   -0.7684   -0.5175   -1.5118
+    2.5859   -1.0170    1.7263   -0.7057   -0.5550   -1.5746
+    2.5862   -1.0170    1.7269   -0.7099   -0.5554   -1.5708
+
+Joint matrix size is    5 X    6  
+Rows(representing iterations)  Cols(representing joint variables).
+theta_matrix =
+
+    2.5862
+   -1.0170
+    1.7269
+   -0.7099
+   -0.5554
+   -1.5708
+
+
+success =
+
+  logical
+
+   1
+
+>> 

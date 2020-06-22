@@ -1,0 +1,4 @@
+diary on
+Stability_of_assembly
+solution does not exist
+diary off
